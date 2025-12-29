@@ -1,0 +1,32 @@
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Node
+node_modules/
+dist/
+*.log
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.python_packages/
+
+# Azure Functions local settings (contains secrets)
+local.settings.json
+
+# Env files (often contain secrets)
+.env
+.env.*
+.envrc
+
+# Optional: Terraform (if you have it)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+
+

@@ -23,6 +23,12 @@ This repository contains everything required to build your own Zyklus MPS-1 clon
 
 - **Aluminium Dials**  
   Custom aluminium dials were also produced through **JLCPCB**, a working stepfile is included. The Case Parts also contain a file for a 3d printed version. 
+  The alu dials need the threads tapped for M4 grub screws. 
+  
+- **Resource Links**  
+
+  To come: links to various shops for parts, such as the PB86 type switches etc. 
+
 
 ---
 

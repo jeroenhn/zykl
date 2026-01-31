@@ -36,7 +36,7 @@ This repository contains everything required to build your own Zyklus MPS-1 clon
 
 The original Zyklus operating system is still being worked on. Once ready for publication, it will be added here. 
 
-In the meantime, **prebuilt EPROM binary files are provided**, allowing you to build a fully functional Zyklus clone today while development continues.
+In the meantime, prebuilt EPROM binary files are provided, allowing you to build a fully functional Zyklus clone today while development continues.
 
 ---
 
@@ -44,7 +44,7 @@ In the meantime, **prebuilt EPROM binary files are provided**, allowing you to b
 
 ### Original Zyklus MPS-1 (1986)
 
-The original **Zyklus MPS-1** was created in 1986 by:
+The original Zyklus MPS-1 was created in 1986 by:
 
 - Bill Marshall  
 - Pete Kellock  
@@ -67,7 +67,9 @@ This includes, but is not limited to:
 
 Without Paul’s expertise, dedication, and deep understanding of both the original and modern electronics, this project simply would not exist.
 
-Paul McMurray is, quite frankly, *the MVP of this project* — and this repository stands as proof of that.
+Paul McMurray is the MVP of this project and instrumental in helping restoring Direct as well.
+
+
 
 ---
 
@@ -75,4 +77,5 @@ Paul McMurray is, quite frankly, *the MVP of this project* — and this reposito
 
 This project is a community-driven, non-commercial recreation intended for educational, historical, and personal use.  
 All trademarks and original design concepts remain the property of their respective owners.
+
 

@@ -56,18 +56,16 @@ Bill Marshall and Pete Kellock have generously given their blessing for this clo
 
 ### ReZyklus Project — Primary Contribution
 
-It cannot be overstated that **the vast majority of the work on this project has been carried out by Paul McMurray**.
+It cannot be overstated that the vast majority of the work on this project has been carried out by Paul McMurray.
 
 This includes, but is not limited to:
 
-- Hardware design  
 - KiCad schematics and PCB layouts  
-- Front-panel and mechanical design  
+- Panel designs & lauouts 
 - 3D-printed parts  
-- Manufacturing preparation and iteration  
-- Overall technical direction and execution  
+- Electronics debugging  
 
-Without Paul’s expertise, dedication, and deep understanding of both the original machine and modern fabrication techniques, **this project simply would not exist**.
+Without Paul’s expertise, dedication, and deep understanding of both the original and modern electronics, this project simply would not exist.
 
 Paul McMurray is, quite frankly, *the MVP of this project* — and this repository stands as proof of that.
 
@@ -75,5 +73,6 @@ Paul McMurray is, quite frankly, *the MVP of this project* — and this reposito
 
 ## Disclaimer
 
-This project is a **community-driven, non-commercial recreation** intended for educational, historical, and personal use.  
+This project is a community-driven, non-commercial recreation intended for educational, historical, and personal use.  
 All trademarks and original design concepts remain the property of their respective owners.
+

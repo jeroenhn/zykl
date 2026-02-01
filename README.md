@@ -6,6 +6,12 @@ The **ReZyklus Project** is an open-source effort to recreate the original **Zyk
 
 This repository contains everything required to build your own Zyklus MPS-1 clone, aptly named 'ReZyklus', including hardware design files, panel layouts, and supporting documentation.
 
+See my blog for some more info on the project:
+https://www.zyklus-mps.com
+
+There is a Discourse server you can join specifically for this project:
+https://discord.gg/zFuuCRRDz4
+
 ---
 
 ## What’s in this repository
@@ -77,5 +83,6 @@ Paul McMurray is the MVP of this project and instrumental in helping restoring D
 
 This project is a community-driven, non-commercial recreation intended for educational, historical, and personal use.  
 All trademarks and original design concepts remain the property of their respective owners.
+
 
 

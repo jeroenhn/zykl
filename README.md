@@ -9,7 +9,7 @@ This repository contains everything required to build your own Zyklus MPS-1 clon
 See my blog for some more info on the project:
 https://www.zyklus-mps.com
 
-There is a Discourse server you can join specifically for this project:
+There is a Discord server you can join specifically for this project:
 https://discord.gg/zFuuCRRDz4
 
 ---
@@ -83,6 +83,38 @@ Paul McMurray is the MVP of this project and instrumental in helping restoring D
 
 This project is a community-driven, non-commercial recreation intended for educational, historical, and personal use.  
 All trademarks and original design concepts remain the property of their respective owners.
+
+## License & Disclaimer
+
+### License
+
+This project is open source and open hardware.
+
+* **Software (firmware, tools, scripts, source code):**
+  Licensed under the **GNU General Public License version 3 (GPLv3)** or later.
+  You are free to use, modify, and redistribute this software under the terms of the GPL, provided that any distributed modifications remain under the same license.
+
+* **Hardware (schematics, PCB layouts, Gerbers, BOM, and related design files):**
+  Licensed under an open hardware copyleft license
+  (either **CERN Open Hardware License Version 2 – Strongly Reciprocal (CERN-OHL-S)** *or* **TAPR Open Hardware License**).
+  You may use, study, modify, and manufacture hardware based on these designs, provided that any distributed modifications or derivative works are made available under the same license.
+
+The intent of this licensing is to ensure that improvements to this project remain available to the community and cannot be taken proprietary.
+
+
+THIS PROJECT IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+The authors and contributors are not liable for any direct, indirect, incidental, or consequential damages arising from the use, modification, manufacture, or distribution of this hardware or software.
+
+This project is intended for educational, experimental, and research purposes. Use in safety-critical systems (including but not limited to medical devices, life-support systems, or any system where failure could cause injury or death) is expressly discouraged and done entirely at your own risk.
+
+By using, modifying, or manufacturing from this project, you agree that all responsibility for compliance with local laws, regulations, certifications, and safety requirements rests solely with you.
+
+---
+
+### Commercial Use
+
+Commercial use is permitted **only under the terms of the applicable licenses**. Any distributed modifications, derivatives, or products based on this project must remain open and must provide access to corresponding source code and hardware design files under the same license terms.
 
 
 

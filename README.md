@@ -12,6 +12,8 @@ https://www.zyklus-mps.com
 There is a Discord server you can join specifically for this project:
 https://discord.gg/zFuuCRRDz4
 
+This is also the place where we think and talk about a succesor, the V2 which is mainly carried by David Perbal and will be a system based on the Teensy platform most likely. 
+
 Shout out to the team:
 
 Paul McMurray
@@ -22,7 +24,7 @@ David Perbal
 
 Panu Talus
 
-
+And I'm Jeroen..
 
 ---
 
@@ -52,7 +54,7 @@ Panu Talus
 
 ## Firmware / OS Status
 
-The original Zyklus operating system is still being worked on. Once ready for publication, it will be added here. 
+The original Zyklus operating system is still being worked on. Once ready for publication, it will be added here. The codebase is z80 Assembly and written in a very specific, old assembler which you'll need to compile and link. 
 
 In the meantime, prebuilt EPROM binary files are provided, allowing you to build a fully functional Zyklus clone today while development continues.
 
@@ -127,6 +129,7 @@ By using, modifying, or manufacturing from this project, you agree that all resp
 ### Commercial Use
 
 Commercial use is permitted **only under the terms of the applicable licenses**. Any distributed modifications, derivatives, or products based on this project must remain open and must provide access to corresponding source code and hardware design files under the same license terms.
+
 
 
 

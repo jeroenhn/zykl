@@ -24,9 +24,9 @@ Shout out to the team:
 
 Paul McMurray (Technical genius who did most of the actual cloning work)
 
-Marcel Donné (Tester who build one of the first clones)
+Marcel Donné (Tester/builder who build one of the first clones)
 
-David Perbal (Another tester who build two of 'm and is carrying the V2 project for the succesor of the ReZyklus)
+David Perbal (Another tester/builder who build two of 'm and is carrying the V2 project for the succesor of the ReZyklus - a Teensy based modern implementation)
 
 Panu Talus (Zyklus enthausiast who for years has accumulated all sorts of historical information on the various units. Owner of an original)
 
@@ -135,6 +135,7 @@ By using, modifying, or manufacturing from this project, you agree that all resp
 ### Commercial Use
 
 Commercial use is permitted **only under the terms of the applicable licenses**. Any distributed modifications, derivatives, or products based on this project must remain open and must provide access to corresponding source code and hardware design files under the same license terms.
+
 
 
 

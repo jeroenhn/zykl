@@ -14,6 +14,12 @@ https://discord.gg/zFuuCRRDz4
 
 This is also the place where we think and talk about a succesor, the V2 which is mainly carried by David Perbal and will be a system based on the Teensy platform most likely. 
 
+So what is the Zyklus MPS-1? 
+A Midi Performance System. It's more than just a sequencer, it's kinda like an 80's version of a launchpad. 
+There's really no better way to understand than to have one of the original developers show it to you, so check out Pete Kellocks video demo's of the Zyklus:
+https://zyklus-mps.com/videos
+
+
 Shout out to the team:
 
 Paul McMurray
@@ -129,6 +135,7 @@ By using, modifying, or manufacturing from this project, you agree that all resp
 ### Commercial Use
 
 Commercial use is permitted **only under the terms of the applicable licenses**. Any distributed modifications, derivatives, or products based on this project must remain open and must provide access to corresponding source code and hardware design files under the same license terms.
+
 
 
 

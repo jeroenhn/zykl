@@ -22,15 +22,15 @@ https://zyklus-mps.com/videos
 
 Shout out to the team:
 
-Paul McMurray
+Paul McMurray (Technical genius who did most of the actual cloning work)
 
-Marcel Donné
+Marcel Donné (Tester who build one of the first clones)
 
-David Perbal
+David Perbal (Another tester who build two of 'm and is carrying the V2 project for the succesor of the ReZyklus)
 
-Panu Talus
+Panu Talus (Zyklus enthausiast who for years has accumulated all sorts of historical information on the various units. Owner of an original)
 
-And I'm Jeroen..
+And I'm Jeroen (Vangelis gear nut, founder of this project, also owns 2 originals and is restoring Vangelis orignal 'Direct' system).
 
 ---
 
@@ -135,6 +135,7 @@ By using, modifying, or manufacturing from this project, you agree that all resp
 ### Commercial Use
 
 Commercial use is permitted **only under the terms of the applicable licenses**. Any distributed modifications, derivatives, or products based on this project must remain open and must provide access to corresponding source code and hardware design files under the same license terms.
+
 
 
 

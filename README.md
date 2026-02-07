@@ -1,6 +1,6 @@
 # ReZyklus Project
 
-## A faithful recreation of the Zyklus MPS-1
+## A clone of the Zyklus MPS-1
 
 The **ReZyklus Project** is an open-source effort to recreate the original **Zyklus MPS-1**.
 
@@ -135,6 +135,7 @@ By using, modifying, or manufacturing from this project, you agree that all resp
 ### Commercial Use
 
 Commercial use is permitted **only under the terms of the applicable licenses**. Any distributed modifications, derivatives, or products based on this project must remain open and must provide access to corresponding source code and hardware design files under the same license terms.
+
 
 
 
